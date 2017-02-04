@@ -14,7 +14,7 @@ One can also observe a lot of similarities in web programming too. For example, 
 
 #### Gentle Problem:
   
-The success of rails-like frameworks results in 2 types of devs. Those that think you simply assemble your web app followed by the opposite group that thinks you must build your web app. 
+The success of these rails-like frameworks results in 2 types of devs. Those that think you simply assemble your web app followed by the opposite group that thinks you must build your web app. Pair that with a language like go which has a bit of a spartan approach to dependency management, and you definitely start to stoke the fire of opinions with jet fuel.
   
 One of these groups, let's call them "omasake", think that every problem can be solved by pulling in another dependency, and coding in go is really just a series of struct juggling and nil checks.  
   
