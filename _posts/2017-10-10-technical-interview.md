@@ -16,7 +16,7 @@ We were a bit worried as he had not communicated anything about the technical in
 <br/>
 <br/>
 <br/>
-The first question was rough. He asked us to write board a fibinacci sequence in Rust. Thinking this might be a homerun for us, I offered to show him how we actually use fibinacci in our backend job system for retry backoff. "Do you build it in Rust?" he prodded. "Nope, it wouldn't really make sense to do it in Rust because... well none of our stack is Rust, but I am still happy to show you a practical implementation of what you just asked." He responded, "I'm sorry, I ask this of all companies I'm interviewing. I need to you do a fibinacci sequence, in Rust, on the whiteboard."
+The first question was rough. He asked us to write board a fibinacci sequence in Rust. Thinking this might be a home run for us, I offered to show him how we actually use fibinacci in our backend job system for retry backoff. "Do you build it in Rust?" he prodded. "Nope, it wouldn't really make sense to do it in Rust because... well none of our stack is Rust, but I am still happy to show you a practical implementation of what you just asked." He responded, "I'm sorry, I ask this of all companies I'm interviewing. I need to you do a fibinacci sequence, in Rust, on the whiteboard."
 <br /><br />
 I grabbed the marker, trying to recall any sort of syntax from the various blog posts I've used to determine that Rust isn't a good fit for us...  I wrote `fibinacci.rs` on the board, then began my solution:
 ```
