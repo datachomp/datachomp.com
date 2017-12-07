@@ -8,7 +8,7 @@ categories:
 
 ### The Technical Interview:
 
-We've been looking to expand our team here at DataChomp Enterprise Software And Data Architecture Solutions (DCESADAS for short). We found an absolutely great candidate. We passed all of his phone interviews, he also also seemed to enjoy talking to the business team... Only one item remained: Would our company pass his technical interview?
+We have been looking to expand our team here at DataChomp Enterprise Software And Data Architecture Solutions (DCESADAS for short). We found an absolutely great candidate. We passed all of his phone interviews. He also also seemed to enjoy talking to the business team and learning we have a business model, but a little pensive that we are actually profitable... Only one item remained: Would our company pass his technical interview?
 
 
 ### Welcome to the Show:
@@ -16,7 +16,7 @@ We were a bit worried as he had not communicated anything about the technical in
 <br/>
 <br/>
 <br/>
-The first question was rough. He asked us to write board a fibonacci sequence in Rust. Thinking this might be our first home run, I offered to show him how we actually use fibonacci in our backend job system for retry backoff. "Do you build it in Rust?" he prodded. "Nope, it wouldn't really make sense to do it in Rust because... well none of our stack is Rust, but I am still happy to show you a practical implementation of what you just asked." He responded, "I'm sorry, I ask this of all companies I'm interviewing. I need to you do a fibonacci sequence, in Rust, on the whiteboard."
+The first question was rough. He asked us to write board a fibonacci sequence in Rust. Thinking this might be our first home run, I offered to show him how we actually use fibonacci in our backend job system for retry backoff. "Did you build it in Rust?" he prodded. "Nope, it wouldn't really make sense to do it in Rust because... well none of our stack is Rust, but I am still happy to show you a practical implementation of what you just asked." He responded, "I'm sorry, I ask this of all companies I'm interviewing. I need you to do a fibonacci sequence, in Rust, on the whiteboard."
 <br /><br />
 I grabbed the marker, trying to recall any sort of syntax from the various blog posts I've used to determine that Rust isn't a good fit for us...  I wrote `fibonacci.rs` on the board, then began my solution:
 ```
@@ -31,7 +31,7 @@ He interrupted, "Please start with 0." I responded, "That is the problem you hav
 <br/>
 The second question was brutal. He started with "You have sheet of cake, and you need to serve 8 equal servings to guests. How would you do this using only 3 cuts?"
 
-My immediate thought was, we're not a bakery, is this candidate confused about what we do? Second, I thought I might impress him a more practical answer - "We take our planning very seriously here. If you worked here with us, you would see our process helps us understand the requirements up front. We actively avoid tools that break after 3 cuts like this knife you speak of. We would just make 8 cupcakes for everyone instead of naively walking into a situation with guests who will fuss over unequal serving proportions."
+My immediate thought was, we're not a bakery, is this candidate confused about what we do? Second, I thought I might impress him with a more practical answer - "We take our planning very seriously here. If you worked here with us, you would see our process helps us understand the requirements up front. We actively avoid tools that break after 3 cuts like this knife you speak of. We would just make 8 cupcakes for everyone instead of naively walking into a situation with guests who will fuss over unequal serving proportions."
 
 This attempt at reason fell on unwanting ears. He countered: "What if cupcakes don't exist? Please solve the problem."
 
@@ -46,4 +46,4 @@ The final 5-10 minutes of the interview, he changed tones and became very friend
 ### Next Step Downward:
 Weeks pass and we hear nothing from our top candidate. We are trying to figure out how to move forward as a company, but this candidate just seems to move at their own opaque pace.  We've been interviewing other people, but they too seem to think that asking theoretical obstacle-course questions is the best way to figure out how we might build something as a team.
 
-One of our business competitors, who just raised another $15M of VC funds, has people dedicated to the interview process who do nothing other than harvest answers to the bizarro questions candidates might have.  Many developers sign with that company, but we tend to see them interviewing again in 8 months when they realize that the actual job was nothing like they thought. I check my inbox, looks like our great candidate just signed with other company. Time to start over.
+One of our business competitors, who just raised another $15M of VC funds, has people dedicated to the interview process who do nothing other than harvest answers to the bizarro questions candidates might have.  Many developers sign with that company, but we tend to see them interviewing again in 8 months when they realize that the actual job was nothing like they thought. I check my inbox, looks like our great candidate just signed with rgw other company. Time to start over.
