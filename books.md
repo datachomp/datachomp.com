@@ -4,13 +4,11 @@ title: Books
 permalink: /books/
 ---
 
+\---|\---|-- 2017 \---|\---|--  
+[mastering postgres](https://masteringpostgresql.com/)
+[mastering postgres 9.6](https://www.packtpub.com/big-data-and-business-intelligence/mastering-postgresql-96)
 
-It is worth mentioning that in addition to reading, I spend a good chunk of time on sites like [Metacasts][], [CodeSchool][], [RubyTapas][].  
 
-
-[Metacasts]: https://www.metacasts.tv/ "MetaCasts"
-[CodeSchool]: https://codeschool.com/ "CodeSchool"
-[RubyTapas]: https://rubytapas.com/ "RubyTapas"
 
 \---|\---|-- 2015 \---|\---|--  
 Heroku Cookbook  
