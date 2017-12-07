@@ -5,10 +5,25 @@ permalink: /books/
 ---
 
 \---|\---|-- 2017 \---|\---|--  
-[mastering postgres](https://masteringpostgresql.com/)
-[mastering postgres 9.6](https://www.packtpub.com/big-data-and-business-intelligence/mastering-postgresql-96)
+**Database:**  
+[mastering postgres](https://masteringpostgresql.com/)  
+[mastering postgres 9.6](https://www.packtpub.com/big-data-and-business-intelligence/mastering-postgresql-96)  
+[designing data intensive application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)  
+[troubleshooting postgres](https://www.packtpub.com/big-data-and-business-intelligence/troubleshooting-postgresql)  
+[sql performance explained](http://sql-performance-explained.com/)  
 
+**AppDev:**  
+[go web programming](https://www.amazon.com/Web-Programming-Sau-Sheong-Chang/dp/1617292567)  
+[go in action](https://www.amazon.com/Go-Action-William-Kennedy/dp/1617291781)  
+[coding iphone apps for kids](https://www.nostarch.com/iphoneappsforkids)  
+[go programming blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)  
+  
 
+**Management:**  
+[ahsoka](https://smile.amazon.com/Star-Wars-Ahsoka-K-Johnston/dp/1484782313)  
+[managing humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/)  
+[sre](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)  
+  
 
 \---|\---|-- 2015 \---|\---|--  
 Heroku Cookbook  
