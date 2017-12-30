@@ -52,6 +52,6 @@ and hopefully we're in!  Once we know our settings are in good shape, lets turn 
 When the server comes back online, hopefully you can connect again from the client. Now that the server is stable again, we can go get completely lost in the [documentation][2] and let the tool really shine.
 
 
-[1]: http://wiki.postgresql.org/wiki/PgBouncer
-[2]: http://pgbouncer.projects.pgfoundry.org/doc/usage.html
-[3]: http://pgbouncer.projects.pgfoundry.org/doc/config.html
+[1]: https://wiki.postgresql.org/wiki/PgBouncer
+[2]: https://pgbouncer.github.io/usage.html
+[3]: https://pgbouncer.github.io/config.html
