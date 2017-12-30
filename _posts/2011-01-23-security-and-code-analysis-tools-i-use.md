@@ -8,7 +8,6 @@ dsq_thread_id:
 categories:
   - Databases
 ---
-# 
 
 Here are some of the tools I use for Security and Code analysis  (I bet you didn't see that coming from!)
 
