@@ -16,7 +16,7 @@ categories:
 
 The question emails are starting to pile in (which is a good thing!) so this post is basically a way to centralize links/answers. In the show, I say a few times "we'll see this later" (like with SQL Server Profiler) and we never see it... that was mostly my fault. For some reason I kept thinking I would be able to squeeze 5 hours of content into 1 hour and was wrong. If there are aspects of SQL Server that you would like to see more of, as well as real world problems that you may have and would like to see solutions to, then let [Tekpub know][1]. We'll see if we can hack out real world solutions wrapped in a warm blanket of statistics and opinion.
 
- [1]: http://help.tekpub.com/
+ [1]: https://bigmachine.io/
 
 **Questions:***  
 **How do you get the stats to appear in the "messages" window?**  
@@ -29,7 +29,7 @@ then check:
 SET STATISTICS IO ON;  
 SET STATISTICS TIME ON; 
 **Lock Pages in Memory, is that always good?**  
-No, and perhaps I glossed over that section too much or technology changes too fast. While Lock Pages in Memory can be a wonderful setting, there are of course times when it can be pretty bad. You can read more about that here: http://sqlserverperformance.wordpress.com/2011/02/14/sql-server-and-the-lock-pages-in-memory-right-in-windows-server/ 
+No, and perhaps I glossed over that section too much or technology changes too fast. While Lock Pages in Memory can be a wonderful setting, there are of course times when it can be pretty bad. You can read more about that here: https://sqlserverperformance.wordpress.com/2011/02/14/sql-server-and-the-lock-pages-in-memory-right-in-windows-server/ 
 **Why no filtered index on Posts?**  
 In our first scenario, to get the front page up... we just went with the index that the engine suggested.. That got us up and running which is great, but there is room for improvement. To me, filtered indexes are more of a business rule decision and with enough time, if we saw that the load was heavy and predictable enough, we would have likely thrown a filtered index to satisfy the front page query.
 
@@ -47,7 +47,7 @@ SQL Server 2008 R2 / Management Studio
 
 **Source code:** 
 
- [2]: http://www.red-gate.com/products/sql-development/sql-prompt/
- [3]: http://www.sqlsentry.com/plan-explorer/sql-server-query-view.asp
- [4]: http://efprof.com/
- [5]: http://www.cpuid.com/softwares/cpu-z.html
+ [2]: https://www.red-gate.com/products/sql-development/sql-prompt/
+ [3]: https://www.sqlsentry.com/plan-explorer/sql-server-query-view.asp
+ [4]: https://efprof.com/
+ [5]: https://www.cpuid.com/softwares/cpu-z.html
