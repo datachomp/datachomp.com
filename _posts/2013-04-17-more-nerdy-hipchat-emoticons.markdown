@@ -5,7 +5,7 @@ date: 2013-04-17 22:43
 comments: true
 categories: 
 ---
-There are lots of reasons to love [hipchat][1] and one of the more playful ones is the ability to upload/define custom emoticons. Builtin to hipchat are a variety of [default emoticons][2] but I needed something nerdier...
+There are lots of reasons to love [hipchat][1] and one of the more playful ones is the ability to upload/define custom emoticons. Builtin to hipchat are a variety of default emoticons but I needed something nerdier...
 
 Here is what I have so far:
 
@@ -44,5 +44,4 @@ Here is what I have so far:
 Special thanks to [@motowilliams][3] for a few of these 
 
 [1]: http://hipchat.com/
-[2]: http://hipchat-emoticons.nyh.name/
 [3]: https://twitter.com/motowilliams
