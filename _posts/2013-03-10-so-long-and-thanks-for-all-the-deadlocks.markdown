@@ -21,8 +21,8 @@ Lastly, SQL Server is also really focused on 3+ year release cycles so at least 
 
 So in short, SQL Server... it's not you, it's me. And I'm cool with that. I'll have to work a little harder, but it will be on my terms not yours. So long, and thanks for all the deadlocks.
 
-[1]: http://tekpub.com/productions/pg/
-[2]: http://tekpub.com/
-[3]: http://mythz.servicestack.net/
-[4]: http://datachomp.com/archives/im-leaving-sql-server-for-postgres/
-[5]: http://www.postgresql.org/
+[1]: https://bigmachine.io/collections/data-and-databases
+[2]: https://bigmachine.io/collections/data-and-databases/
+[3]: https://mythz.servicestack.net/
+[4]: https://www.datachomp.com/archives/im-leaving-sql-server-for-postgres/
+[5]: https://www.postgresql.org/
