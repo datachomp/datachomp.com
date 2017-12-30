@@ -116,7 +116,7 @@ vim and vi tips
 [Heroku Hackers Guide](https://www.theherokuhackersguide.com/)  
 [Professional ASP.NET MVC 4 (Wrox Professional Guides)](https://www.amazon.com/gp/product/111834846X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=111834846X&linkCode=as2&tag=data03c5-20)  
 [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night (The Facets of Ruby)](https://www.amazon.com/gp/product/1934356956/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1934356956&linkCode=as2&tag=data03c5-20)  
-[Rails Deep Dive](https://rubysource.com/free-rails-deep-dive-ebook/)  
+[Rails Deep Dive](https://s3.amazonaws.com/sitepoint-ebooks/Rails_Deep_Dive.pdf?AWSAccessKeyId=1VXE8MPZ14ENBK220TG2&Expires=2060598700&Signature=NGsSwrnu5w8e8KuW24zXXspDMLE%3D)  
 [Practical Performance Profiling: Improving the efficiency of .NET code](https://www.amazon.com/gp/product/1906434824/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1906434824&linkCode=as2&tag=data03c5-20)  
 
  
