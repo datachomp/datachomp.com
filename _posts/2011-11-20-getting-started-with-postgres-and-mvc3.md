@@ -15,8 +15,8 @@ categories:
 
 "***[Postgres][1]? WTF man, you're a SQL Server DBA!***" It's true, I am a SQL Server DBA but even I have to admit that the Postgres team is doing some [wildy exciting stuff][2]. With that in mind, lets take a quick look at just how quickly we can replace SQL Server with a free/open full bore Enterprise database system like [Postgres][1].
 
- [1]: http://www.postgresql.org/
- [2]: http://www.postgresql.org/about/featurematrix
+ [1]: https://www.postgresql.org/
+ [2]: https://www.postgresql.org/about/featurematrix/
 
 One of the first things you will notice is Postgres is way easier to install than SQL Server. The SQL Server install is born from a truck stop romance between TFS and Sharepoint that someone found in a garbage bag in a dumpster and burned to a DVD. Postgres takes a different angle and opts for a 'less is more' type of approach. One of the big things you will want to pay attention to is the password you give the default 'postgres' account. Think of him as the SA account in SQL Server as he too wields a mighty big stick.
 
@@ -104,7 +104,7 @@ Yeah! We have our provider factory rocking and our connection string. Yes, I am 
 So our color app is pretty quick and dirty. In keeping with that spirit, I'm going to use [Massive][5] as my ORM of choice. It already has a [Postgres version][6] ready to go. [PetaPoco][7] has some very nice Postgres options in it, but Massive is very quick/easy and the Expandos makes all the strong-typers uncomfortable and I love a good code-trolling.
 
  [5]: https://github.com/robconery/massive
- [6]: https://github.com/robconery/massive/blob/master/Massive.PostgreSQL.cs
+ [6]: https://github.com/FransBouma/Massive/blob/v2.0/src/Massive.PostgreSQL.cs
  [7]: https://github.com/toptensoftware/petapoco
 
 In the Model folder of our app, I create a new class file called Massive and I copy/paste the [Postgres version][6] into it, and I also created a new class file called "Colors" that I pasted the following in:
@@ -135,7 +135,7 @@ All wired up! In the home controller, we'll throw some code to play with our tab
     
     5.  &nbsp;
 
- [8]: http://www.google.com/search?q=new msdn.microsoft.com
+ [8]: https://www.google.com/search?q=new msdn.microsoft.com
 
 And then in our view:
 
