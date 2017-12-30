@@ -15,7 +15,7 @@ categories:
 
 The single most question I get regarding our [Hello Postgres][1] series over Tekpub is "How are you running your app on Linux?" As much as I enjoy sending volleys of fragmented explanations over emails to people, I decided it might be in everyone's best interest if I just blog it out. Technology moves fast... like super fast. So instead of showing you how to deploy an old and busted MVC3 app to a "has been" Ubuntu 11.10, we're going to be going with MVC4 and [Ubuntu 12.04][2]. We're so bleeding edge you can call us cutters!
 
- [1]: http://tekpub.com/productions/pg "Hello Postgres"
+ [1]: https://bigmachine.io/collections/data-and-databases "Hello Postgres"
  [2]: https://wiki.ubuntu.com/PrecisePangolin/TechnicalOverview/Beta2 "Ubuntu 12.04 beta 2"
 
 I'm not going to show you how to set up and install your Ubuntu Server, as there is a ton of internet out there that can handle that for you and the installer itself is pretty hard to mess up. What I will cover is what to do after that last reboot where it is just you and Bash, together... at last.

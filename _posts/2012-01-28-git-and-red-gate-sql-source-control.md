@@ -13,10 +13,10 @@ categories:
 ### This post is over 2 years old and dealt with early versions of the product. A lot has changed since then.
 I am a huge fan of [Red Gate SQL Source Control][1] because it makes source controlling/deploying your database easier. I am aware of the MS Database Projects abomination application and the short version on that is that I have deemed them unworthy for my use. There are lots of tutorials and examples of using RG SSC with centralized version control systems like [Subversion][2] or [TFS][3] and it does work wonderfully with them. Recently, my workplace decided to ditch TFS and move to a more modern distributed version control named [Git][4]. Like most disruptions to your workflow, there are a few growing pains. This post is going to cover installing Git on Widows, hooking it up to [github.com][5] and showing some basic actions as we change our database.
 
- [1]: http://www.red-gate.com/products/sql-development/sql-source-control/
+ [1]: https://www.red-gate.com/products/sql-development/sql-source-control/
  [2]: http://subversion.tigris.org/
  [3]: http://en.wikipedia.org/wiki/Nelson_Muntz
- [4]: http://git-scm.com/
+ [4]: https://git-scm.com/
  [5]: https://github.com/
 
 **Install Git:**  
@@ -24,7 +24,7 @@ Download the [full installer for Git][6] and install it.
 While you are mindlessly clicking 'next' make sure you integrate with CMD. This is critical for RG SSC and just a convenient thing to do in general. The important part will look like this:  
 <a href="http://files.datachomp.com/SQLServer/rgssc/1install_cmd.png" target="_blank"><img src="http://files.datachomp.com/SQLServer/rgssc/1install_cmd.png" alt="sourcecontrolcmd" width=100 height=100 /></a>
 
- [6]: http://code.google.com/p/msysgit/downloads/list?can=3
+ [6]: https://code.google.com/p/msysgit/downloads/list?can=3
 
 **Aside:** I'm a converted fan of [posh-git][8]. Using things like the Git GUI or Tortoise GIT will be incredibly tempting, and perhaps for initial familiarization, it might be a good idea to use those to visualize some concepts. That being said, it is really in your best interest to move towards the CLI and posh-git is very helpful in that regard. It isn't nearly as bad as you think once you get going.
 
@@ -33,7 +33,7 @@ While you are mindlessly clicking 'next' make sure you integrate with CMD. This 
 **Repo Hosting**  
 Once you have Git installed, you will want to hook up to some hosting. An incredibly popular and easy to use one is [Github.com][5] but there are [plenty of others][9].
 
- [9]: http://git-scm.com/tools
+ [9]: https://git-scm.com/
 
 **Repo Man**  
 In Github, you will want to create your repository and [assign your SSH keys][10]. This process can be a bit more than you are used to at first, but GitHub as great at giving you some hand holding instructions:   
@@ -41,7 +41,7 @@ Once the repo is initialized, I like to create a folder for the App and a folder
 <a href="http://files.datachomp.com/SQLServer/rgssc/2folder_layout.png" title="folder layout" target="_blank"><img src="http://files.datachomp.com/SQLServer/rgssc/2folder_layout.png" alt="folder layout" width=100 height=100 /></a>  
 You don't have to do it like that, but again, that is the way I currently like to do it.
 
- [10]: http://help.github.com/win-set-up-git/
+ [10]: https://help.github.com/win-set-up-git/
 
 
 **Lets hook up the DB!**  
