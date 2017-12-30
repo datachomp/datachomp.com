@@ -26,9 +26,14 @@ WebConfig Analyzer - you can do a stand alone download and feed your webconfig i
 
  [3]: https://www.mavitunasecurity.com/communityedition/
 
-[BackTrack 4][4] Not sure what needs to be said here other than the best way to get a white hat, is to take a black hat and bleach it.
+[BackTrack 4][4] Not sure what needs to be said here other than the best way to get a white hat, is to take a black hat and bleach it. link has been updated to point to Kali org
 
- [4]: http://www.backtrack-linux.org/
+ [4]: https://www.kali.org/
+
+  
+The backtrack to kodi broken link was fixed by our friends at comparitech, who posted this (helpful VPN guide for Linux)[helpfullinuxvpn]
+
+[helpfullinuxvpn]: https://www.comparitech.com/blog/vpn-privacy/best-vpn-for-linux/
 
 [FXCop][5] I tun this against my code when I want to feel stupid and see how many places I've goofed.  Things putting getters and setters on read only data. Doh!
 
