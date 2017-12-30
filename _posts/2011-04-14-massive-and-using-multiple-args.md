@@ -15,7 +15,7 @@ categories:
 
 So, in [Rob Conery's example][1] of using multiple args in a query
 
- [1]: http://blog.wekeroad.com/helpy-stuff/and-i-shall-call-it-massive
+ [1]: https://rob.conery.io/2011/02/15/and-i-shall-call-it-massive/
 
 <code>
     var tbl = new Products();
