@@ -26,6 +26,6 @@ Here is the file:
 
 
 Related Link:  
-[http://www.karaszi.com/SQLServer/util\_agent\_alerts.asp][1]
+[https://sqlperformance.com/2015/02/sql-alert/sql-server-agent-alerts][1]
 
- [1]: http://www.karaszi.com/SQLServer/util_agent_alerts.asp
+ [1]: https://sqlperformance.com/2015/02/sql-alert/sql-server-agent-alerts
