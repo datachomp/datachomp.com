@@ -4,6 +4,18 @@ title: Books
 permalink: /books/
 ---
 
+\---|\---|-- 2018 \---|\---|--  
+
+**Database:**  
+[database reliability engineering](https://shop.oreilly.com/product/0636920039761.do)  
+
+**AppDev:**  
+[database driven apps with go](https://www.vividcortex.com/resources/the-ultimate-guide-to-building-database-driven-apps-with-go)  
+[advanced activerecord](https://advancedactiverecord.com/)
+
+**Management:**  
+[sousvide at home](https://www.amazon.com/Sous-Vide-Home-Technique-Perfectly/dp/0399578064)
+
 \---|\---|-- 2017 \---|\---|--  
 **Database:**  
 [mastering postgres](https://masteringpostgresql.com/)  
@@ -23,6 +35,7 @@ permalink: /books/
 [ahsoka](https://smile.amazon.com/Star-Wars-Ahsoka-K-Johnston/dp/1484782313)  
 [managing humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/)  
 [sre](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)  
+[lost stars](https://www.goodreads.com/book/show/25067046-lost-stars)
   
 
 \---|\---|-- 2015 \---|\---|--  
