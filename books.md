@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-\---|\---|-- 2018 \---|\---|--  
+---|---|-- 2018 ---|---|--  
 
 **Database:**  
 [database reliability engineering](https://shop.oreilly.com/product/0636920039761.do)  
@@ -16,7 +16,7 @@ permalink: /books/
 **Management:**  
 [sousvide at home](https://www.amazon.com/Sous-Vide-Home-Technique-Perfectly/dp/0399578064)
 
-\---|\---|-- 2017 \---|\---|--  
+---|---|-- 2017 ---|---|--  
 **Database:**  
 [mastering postgres](https://masteringpostgresql.com/)  
 [mastering postgres 9.6](https://www.packtpub.com/big-data-and-business-intelligence/mastering-postgresql-96)  
