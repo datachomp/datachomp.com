@@ -15,4 +15,4 @@ postgres healthheck: $250/server
 
 AWS RDS configuration: $250/server
 
-on demand support with our DBAs: $300/hr
+on demand support with your team: $300/hr
