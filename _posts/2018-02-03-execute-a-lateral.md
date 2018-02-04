@@ -45,6 +45,6 @@ WHERE b.id IN (1,2,3);
 Results look good, lets check out execution plan:  
 `Nested Loop  (cost=0.83..10.27 rows=3 width=44)`  
 
-Hey! Much better. Hell, we could put this on the landing page. Ok, time to hand this back off and get back to surfing - uh oh, just got paged again:  
-  
+Hey! Much better. Hell, we could put this on the landing page. Ok, time to hand this query off and get back to surfing - uh oh, just got paged again:  
+
 'OUR ORM DOESNT KNOW WHAT A CROSS JOIN IS. PLEASE PUT RESULTS IN KAFKA'
