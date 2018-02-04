@@ -10,7 +10,7 @@ I know a lot of readers come here for photography or cooking content, but I'm go
   
 Now, I know if you're a modern developer and doing stuff like kafka, boltdb, redis, or whatever, you might be asking yourself "what is a join? is that when you add more latency to a cluster by spinning up more nodes?" and you would be wise to ask yourself that. However, I'm talking about relational database joins so feel free to just close the tab.
 
-The request was pretty simple on the surface - "Someone in marketing wants to know the first rating associated with our burrito sales". Cool. So, being a SQL dinogator, I instantly went to a CTE to accomplish this:
+The request was pretty simple on the surface - "Someone in marketing wants to know the first rating associated with our burrito sales". Cool. Being a SQL dinogator, I instantly went to a CTE to accomplish this:
 ```
 WITH oldest_rating AS (
     SELECT id, burrito_id, rating
