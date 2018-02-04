@@ -47,4 +47,6 @@ Results look good, let's check out execution plan:
 
 Hey! Much better. Hell, we could put this on the landing page. Ok, time to hand this query off and get back to surfing - uh oh, just got paged again:  
 
-'OUR ORM DOESNT KNOW WHAT A CROSS JOIN IS. PLEASE PUT RESULTS IN KAFKA'
+'OUR ORM DOESNT KNOW WHAT A CROSS JOIN IS. PLEASE PUT RESULTS IN KAFKA'  
+  
+Time for me to go flag down a meteor.
