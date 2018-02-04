@@ -5,7 +5,6 @@ permalink: /books/
 ---
 
 ---|---|-- 2018 ---|---|--  
-
 **Database:**  
 [database reliability engineering](https://shop.oreilly.com/product/0636920039761.do)  
 
