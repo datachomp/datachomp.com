@@ -32,14 +32,14 @@ rows = 1... that's not good. Actually, it's a known feature with CTE's and perfe
 ```
 SELECT b.id, title, sale_price, old.rating
 FROM burrito_sales b
-		CROSS JOIN LATERAL 
-		(
-			SELECT rating 
-			FROM burrito_ratings
-			WHERE burrito_id = b.id
-			ORDER BY created_at
-			LIMIT 1
-		) old
+	CROSS JOIN LATERAL 
+	(
+		SELECT rating 
+		FROM burrito_ratings
+		WHERE burrito_id = b.id
+		ORDER BY created_at
+		LIMIT 1
+	) old
 WHERE b.id IN (1,2,3);
 ```
 Results look good, let's check out execution plan:  
