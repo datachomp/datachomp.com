@@ -28,7 +28,7 @@ This works. I sent it back to the marketing team and went back to browsing neweg
 I run a quick explain:  
 `(cost=7383.98..8439.45 rows=1 width=44)`
 
-rows = 1... that's not good. Actually, it is just fine for a one-off query like I thought this would be, but it is quite bad for where reality ended up. The good news here is that since almost all technical business problems have been solved, I don't have to run the company into the ground trying to force a new architecture... I can just rewrite the query. This looks like a perfect excuse to use a [lateral join](https://www.postgresql.org/docs/current/static/queries-table-expressions.html).
+rows = 1... that's not good. Actually, it's a known feature with CTE's and perfectly fine for a one-off query I thought this would be. Reality disagreed with me again. The good news here is that since almost all technical business problems have been solved, I don't have to run the company into the ground trying to force a new architecture... I can just rewrite the query. This looks like a perfect excuse to use a [lateral join](https://www.postgresql.org/docs/current/static/queries-table-expressions.html).
 ```
 SELECT b.id, title, sale_price, old.rating
 FROM burrito_sales b
