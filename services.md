@@ -11,7 +11,7 @@ upgrade postgres: $1000/server
 
 enable replication: $1500/server
 
-postgres healthheck: $250/server
+postgres health check: $250/server
 
 AWS RDS configuration: $250/server
 
