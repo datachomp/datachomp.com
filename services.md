@@ -13,6 +13,8 @@ enable replication: $1500/server
 
 postgres health check: $250/server
 
-AWS RDS configuration: $250/server
+aws rds configuration: $250/server
+
+enterprise elasticsearch consulting: $250/server
 
 on demand support with your team: $300/hr
