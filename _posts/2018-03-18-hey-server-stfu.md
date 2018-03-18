@@ -6,7 +6,7 @@ comments: false
 categories:
 ---
 
-In the modern ops world, kubernetes and kafka have created quite a bit of technical climate change (not to be confused with the real climate change of bitcoin). Needing to better understand the hype cycle, I thought it would fun to get a little server and play with the Brave Newest World of complexity.
+In the modern dev world, kubernetes and kafka have created quite a bit of technical climate change (not to be confused with the real climate change of bitcoin). Needing to better understand this hype-cycle, I thought it would fun to get a little 1u server and play with tech's Bravest New World of complexity.
 
 ### Software
 I was raised by VMware ESX and while I still enjoy many aspects of the software, VMware the company has just completely worn me out. Speaking of terrible companies, VirtualBox is owned by Oracle so scratch them off the list too. As more and more metered virtual server providers ("cloud" for short) keep moving to the KVM hypervisor, it has moved up on my requirements list. Needing KVM + containers focused my attention on [Proxmox](https://www.proxmox.com/en/). So far, easier to use than ESX and their Community subscription plan is pretty cheap.  
