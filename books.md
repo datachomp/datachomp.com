@@ -10,17 +10,21 @@ permalink: /books/
 [practical monitoring](https://www.amazon.com/Practical-Monitoring-Effective-Strategies-World/dp/1491957352/ref=sr_1_1?ie=UTF8&qid=1517808859&sr=8-1&keywords=practical+monitoring)  
 [postgres high availability cookbook](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-high-availability-cookbook-second-edition)  
 [postgres high performance cookbook](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-high-performance-cookbook)  
+[kafka the definitive guide](http://shop.oreilly.com/product/0636920044123.do)  
   
 **AppDev:**  
 [database driven apps with go](https://www.vividcortex.com/resources/the-ultimate-guide-to-building-database-driven-apps-with-go)    
 [advanced activerecord](https://advancedactiverecord.com/)  
 [practical AWS networking](https://www.packtpub.com/virtualization-and-cloud/practical-aws-networking)  
 [aws system administration](https://www.amazon.com/AWS-System-Administration-Practices-Sysadmins/dp/1449342574/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1517809081&sr=1-1-catcorr&keywords=aws+system+administration+oreilly)  
+[kubernetes up and running](http://shop.oreilly.com/product/0636920043874.do)  
 
 **Management:**  
 [sousvide at home](https://www.amazon.com/Sous-Vide-Home-Technique-Perfectly/dp/0399578064)  
 [effortless sousvide cookbook](https://www.amazon.com/Effortless-Sous-Vide-Cookbook-Restaurant-Quality-ebook/dp/B078C9BNCF)  
-
+[thrawn](https://www.amazon.com/Thrawn-Star-Wars-Timothy-Zahn/dp/0345511271)  
+  
+  
 ---|---|-- 2017 ---|---|--  
 **Database:**  
 [mastering postgres](https://masteringpostgresql.com/)  
