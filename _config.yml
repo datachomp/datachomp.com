@@ -23,5 +23,7 @@ exclude:
   - Gemfile.lock
 
 
+google_analytics: UA-CLICKY-N
+
 feed:
   path: atom.xml
