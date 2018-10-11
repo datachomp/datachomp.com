@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/datachomp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.datachomp.com
+  * I am datachomp (https://keybase.io/datachomp) on keybase.
+  * I have a public key ASCoyDr-XEmQhc-9F3KvqX10RSxrw7ei7QonREC0rNQdfgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a8c83afe5c499085cfbd1772afa97d74452c6bc3b7a2ed0a274440b4acd41d7e0a",
+      "host": "keybase.io",
+      "kid": "0120a8c83afe5c499085cfbd1772afa97d74452c6bc3b7a2ed0a274440b4acd41d7e0a",
+      "uid": "13e68bb458dd8e88f321a55b7364a019",
+      "username": "datachomp"
+    },
+    "merkle_root": {
+      "ctime": 1539290507,
+      "hash": "bbb1e55f95eb44e36cecefc1f1838f6cb87e16e3c9c94516300f84d8b99ab9f3dd59fb93b3826f89c3965c1c9eacaca5f9a6b87deb48c85641710bc68745c585",
+      "hash_meta": "6a03d24793aec7c801b2212b8db44ae095572cee8b456c800f82523f9bef62fb",
+      "seqno": 3782870
+    },
+    "service": {
+      "entropy": "ZkipAt/BYQyMN5E+G+PmSfr5",
+      "hostname": "www.datachomp.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1539290523,
+  "expire_in": 504576000,
+  "prev": "d26bb926dceb2a2ea94ecccfe1b4c5c6443306298d199251134a9515a9058372",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqMg6/lxJkIXPvRdyr6l9dEUsa8O3ou0KJ0RAtKzUHX4Kp3BheWxvYWTESpcCG8Qg0mu5JtzrKi6pTszP4bTFxkQzBimNGZJRE0qVFakFg3LEICOAKcPKYFEpJ9elBh6kNmSgaF5JYvSUPu6eWXSNfN4tAgHCo3NpZ8RAhMQ2YHUWubqRNCWEoSVvB/eO+cv4rXCIuT7q6xApeg9mL/hYbA3KMOupoW5q9/FemwWiAtwzxDqaBNz056o7DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB4oQjatWXl1W6VJUPlUenNDA6rHYcWztEDCbhjCreYUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/datachomp
+
+==================================================================
