@@ -10,7 +10,7 @@ Recently, I got into a mountain biking accident and broke myself. Like most real
   
 While on medication, I thought it might be a good idea to try to calculate which day might have the most emotional anguish to compliment the physical anguish. My theory is that the longest consecutive day with a negative balance on my bills would be prime time stress.  
   
-Out dataset:
+Our dataset:
 ```
 CREATE TABLE agony (id serial primary key, transaction_date date, amount int);
 
