@@ -34,7 +34,7 @@ GROUP BY date_trunc('MONTH', transaction_date);
 (1 row)
 ```
 
-We broke even. Thank you fancy tech salary!  Next, we'll get our running total:
+Looks like we broke even. Thank you fancy tech salary!  Next, we will get our running total:
 
 ```
 SELECT transaction_date, 
