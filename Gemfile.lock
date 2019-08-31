@@ -56,10 +56,10 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rouge (3.8.0)
+    rouge (3.9.0)
     ruby_dep (1.5.0)
     safe_yaml (1.0.5)
-    sassc (2.1.0)
+    sassc (2.2.0)
       ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
@@ -74,7 +74,7 @@ DEPENDENCIES
   minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 2.6.4p104
 
 BUNDLED WITH
    1.17.3
