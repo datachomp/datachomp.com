@@ -28,10 +28,10 @@ This helps me make sure I'm only focusing on work slack when I'm actually workin
 #### Tip 6: Don't install the Slack App on your machine  
 At some jobs, Slack usage is just such a disaster that it might make more sense to only use Slack in the browser a couple of times a day.  
 If you have multiple work machines, put Slack on the machine you use the least.  
-In these situations, also consider a hard to use client like (slack-term)[https://github.com/erroneousboat/slack-term] to help get your time back.
+In these situations, also consider a hard to use client like [slack-term](https://github.com/erroneousboat/slack-term) to help get your time back.
 
 #### Tip 7: Apply the same theme to everything  
-For me, I make every Slack "project" I am in the same thing. I use the Terminal theme from (slackthemes.net)[https://slackthemes.net]. I use this to also just help me get some mind space back by keeping Slack more predictable in its visual noise.
+For me, I make every Slack "project" I am in the same thing. I use the Terminal theme from [slackthemes.net](https://slackthemes.net). I use this to also just help me get some mind space back by keeping Slack more predictable in its visual noise.
 
 #### Tip 8: Be very liberal with Do Not Disturb  
 Slack has a 'do not disturb' feature on it. Make sure it lines up with your work hours so you are not accidentally distracted by work stuff when you are on your own time.
