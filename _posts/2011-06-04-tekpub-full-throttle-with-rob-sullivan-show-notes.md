@@ -48,6 +48,6 @@ SQL Server 2008 R2 / Management Studio
 **Source code:** 
 
  [2]: https://www.red-gate.com/products/sql-development/sql-prompt/
- [3]: https://www.sqlsentry.com/plan-explorer/sql-server-query-view.asp
+ [3]: https://www.sentryone.com/
  [4]: https://efprof.com/
  [5]: https://www.cpuid.com/softwares/cpu-z.html
