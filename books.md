@@ -4,6 +4,19 @@ title: Books
 permalink: /books/
 ---
 
+---|---|-- 2021 ---|---|--  
+**Database:**  
+
+
+**AppDev:**  
+[building mobile apps at scale](https://www.mobileatscale.com/)
+[modern css with tailwind](https://pragprog.com/titles/tailwind/modern-css-with-tailwind/)    
+
+
+**Management:**  
+  
+
+
 ---|---|-- 2018 ---|---|--  
 **Database:**  
 [database reliability engineering](https://shop.oreilly.com/product/0636920039761.do)  
