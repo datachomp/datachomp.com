@@ -6,15 +6,29 @@ permalink: /books/
 
 ---|---|-- 2021 ---|---|--  
 **Database:**  
+The big book of dashboards : visualizing your data using real-world business scenarios  
+Learning MySQL and MariaDB   
+
 
 
 **AppDev:**  
-[building mobile apps at scale](https://www.mobileatscale.com/)
+[building mobile apps at scale](https://www.mobileatscale.com/)  
 [modern css with tailwind](https://pragprog.com/titles/tailwind/modern-css-with-tailwind/)    
-
-
-**Management:**  
+Terraform: Up & Running: Writing Infrastructure as Code  
+Learn Google Flutter Fast: 65 Example Apps  
+Beginning App Development with Flutter: Create Cross-Platform Mobile Apps  
+Mastering Puppet 5  
+Puppet 5 Cookbook  
+Rails Performance Apocrypha  
+Refactoring UI  
   
+  
+**Management:**  
+Thrawn: Treason (Star Wars) (Star Wars: Thrawn)  
+Star Wars: Thrawn Ascendancy (Book I: Chaos Rising) (Star Wars: The Ascendancy Trilogy)  
+Trail Solutions : IMBA's Guide to Building Sweet Singletrack  
+Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs  
+Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It    
 
 
 ---|---|-- 2018 ---|---|--  
@@ -24,6 +38,7 @@ permalink: /books/
 [postgres high availability cookbook](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-high-availability-cookbook-second-edition)  
 [postgres high performance cookbook](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-high-performance-cookbook)  
 [kafka the definitive guide](http://shop.oreilly.com/product/0636920044123.do)  
+Programming Ecto  
   
 **AppDev:**  
 [database driven apps with go](https://www.vividcortex.com/resources/the-ultimate-guide-to-building-database-driven-apps-with-go)    
@@ -31,6 +46,7 @@ permalink: /books/
 [practical AWS networking](https://www.packtpub.com/virtualization-and-cloud/practical-aws-networking)  
 [aws system administration](https://www.amazon.com/AWS-System-Administration-Practices-Sysadmins/dp/1449342574/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1517809081&sr=1-1-catcorr&keywords=aws+system+administration+oreilly)  
 [kubernetes up and running](http://shop.oreilly.com/product/0636920043874.do)  
+Docker for Rails Developers  
 
 **Management:**  
 [sousvide at home](https://www.amazon.com/Sous-Vide-Home-Technique-Perfectly/dp/0399578064)  
