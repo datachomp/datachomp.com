@@ -27,7 +27,7 @@ First, we need to enable CLR on our database:
 Next, we fire up Visual Studio and create a Database project. C# is my language of choice so I choose it:  
 ![CreateProject][2]
 
- [2]: http://images.datachomp.com/sqlserver/sqlclr/CreateProject.jpg
+ [2]: https://www.datachomp.com/sqlserver/sqlclr/CreateProject.jpg
 
 After that, it will likely ask you for some DB credentials, much like creating a datasource when you are doing other .net applications. Like other .NET solutions, you can right click on your project, go to properties and change your connection on the 'database' tab. Once you get your project up, right click on add a new item, and select stored procedure. Give it a name bearing in mind that the name you give it will be what the procedure gets deployed as. Once created you will see that VS takes care of a lot of the plumbing for you:
 <code>

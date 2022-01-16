@@ -17,4 +17,4 @@ You can trigger this by click on the "Switch on low bandwidth view" link on [MSD
 
 ![][2]
 
- [2]: http://images.datachomp.com/AppDev/Low_Bandwidth_MSDN.jpg
+ [2]: https://www.datachomp.com//appdev/Low_Bandwidth_MSDN.jpg
