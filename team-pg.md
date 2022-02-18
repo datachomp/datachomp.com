@@ -15,6 +15,7 @@ Today, Flash lives north of CareRev HQ, at Lindsey Wildlife Experience. While he
 <hr/>  
 I think being curious and goofy are great traits for Team Peregine. With that in mind, this week I'm very happy to announce that our team has adopted Flash for 2022. 
 <br/>
+<br/>
 In a week with various ups and downs, it is good to remember how important it is to be the person who helps those with a broken wing. And to be curious. And to be goofy.  
 <hr/>  
 ![flash]({{ site.url }}/assets/pere/flash.jpg)
