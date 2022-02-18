@@ -17,7 +17,7 @@ gem "minima" #, "~> 2.0"
 
 # gem install eventmachine -- --with-cppflags=-I/usr/local/opt/openssl/include 
 # macos: 
-# gem install eventmachine -- --with-cppflags=-I/opt/homebrew/Cellar/openssl@1.1/1.1.1l_1/include
+# gem install eventmachine -- --with-cppflags=-I/opt/homebrew/Cellar/openssl@1.1/1.1.1m/include
 #gem 'eventmachine'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
