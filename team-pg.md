@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Team PG
 ---
 
 Team!
