@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Team PG
-permalink: /team-pg/
 ---
 
 Team!
