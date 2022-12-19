@@ -16,7 +16,7 @@ When I say tracking, I'm talking about unsolicited tracking that is sold and use
 I like that [Fastmail](fastmail) is ... well... it's fast. It also doesn't show me ads when I'm trying to complete my email tasks. I also like the calendar and other functions.  
 
 #### Books/Movies: Public Library - free/year  
-I has best as I can tell, my public library has motivation other than to help me learn, be entertained, or generally have a better day. Because of that, I get a lot of media (movies/books) from the library and donate almost all my tech books to the library now. My library has a lovely online hold system; I just place my holds and pick up what I need on my bike ride.  
+I has best as I can tell, my public library is only motivated to help me learn, be entertained, or generally have a better day. Because of that, I get a lot of media (movies/books) from the library and donate almost all my tech books to the library now. My library has a lovely online hold system; I just place my holds and pick up what I need on my bike ride.  
 
 #### News/Articles: RSS - $40/year  
 I get a good chunk of my news, release notifications, etc from the combination of [Feedbin](https://feedbin.com/) (syncing lists) and Reeder (viewing feeds). Having really simplified feed versions of what I want to read in a consistent interface has a lot of value for me.
