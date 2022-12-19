@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Limiting Ads and Tracking for $500/year"
+title: "Limiting Ads and Tracking for $550/year"
 date: 2022-12-19 10:17:40 -0500
 comments: true
 categories:
