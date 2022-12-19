@@ -5,7 +5,7 @@ date: 2022-12-19 10:17:40 -0500
 comments: true
 categories:
 ---
-Here is a quick post on how I'm trying to limit ads and tracking in my life and what it costs me.
+Here is a quick post on how I'm trying to limit ads and tracking in my life and what it costs me. Is it perfect? Ha no, but this can be a pretty decent starting point for someone and get you a lot closer to diminishing returns on additional effort.
 
 Quick Definitions: When I say ads, I'm mostly talking about non-curated/unsolicited advertising noise. A secondary goal is trying to actively change the incentive companies have with advertising-centric revenue models.
 
