@@ -21,6 +21,9 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Makefile
+  - .ruby-version
+  - .ruby-gemset
 
 feed:
   path: atom.xml
