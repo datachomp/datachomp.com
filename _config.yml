@@ -12,7 +12,6 @@ url: "https://www.datachomp.com" # the base hostname & protocol for your site, e
 permalink: /archives/:title/
 twitter_username: datachomp
 github_username: datachomp
-mastodon_username: @datachomp@hachyderm.io
 
 # Build settings
 markdown: kramdown
