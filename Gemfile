@@ -13,7 +13,7 @@ ruby File.read(File.expand_path('../.ruby-version', __FILE__)).chomp
 gem "jekyll" #, "~> 3.8.0"
 gem 'webrick'
 
-# temp fix for ruby 3.3 while waiting for new release
+# temp fix for ruby 3.3 while waiting for new release (dec '23')
 gem 'google-protobuf', "~> 3.21.12"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
