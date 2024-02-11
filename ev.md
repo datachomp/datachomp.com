@@ -8,11 +8,16 @@ amazing for driving around the city
 
 
 Not good: 
-everything in units of 1 instead of 1/4 or 1/8
+everything in units of 1 instead of 1/4 or 1/8 - not adjustable
+
 distance being variable up to 35%
+
 software is so dumb
 	doesn't want to necessarily work with other software
+	Everything is digital/dynamic interface, but personalization is deeply superficial
+
 touch is so dumb
+
 public charging sucks. questionable availability/functionality/speed/scummy apps
 	variable charge time sucks with passengers
 
