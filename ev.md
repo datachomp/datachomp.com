@@ -5,6 +5,8 @@ so much fun to drive
 maintenance is really nice
 auto driving is nice when everything works
 amazing for driving around the city
+When your behavior matches what the software wants - it feels magical
+Nice HUDs - minimal but information dense. This is way better than distracting infotainment
 
 
 Not good: 
@@ -16,9 +18,11 @@ software is so dumb
 	doesn't want to necessarily work with other software
 	Everything is digital/dynamic interface, but personalization is deeply superficial
 
-touch is so dumb
+touch is so dumb, slow, unecessary 
 
 public charging sucks. questionable availability/functionality/speed/scummy apps
 	variable charge time sucks with passengers
 
 Because of a few of the aboves, it is hard to travel reasonable distances with predictable or convient time reporting ot other people
+
+Nice HUDs have really expensive windshields
