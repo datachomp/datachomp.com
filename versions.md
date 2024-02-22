@@ -4,6 +4,21 @@ title: PG Versions
 permalink: /versions/
 ---
 
+### 16 (2023-09-11 : 2028-11-09)  
+	* Query planner improvements (aggregates, incremental sorts, etc)
+	* Large performance gains in bulk loading (COPY)
+	* vacuum improvements 
+	* logical replication - start of bi-directional foundation, logical repl from standby
+	* pg_stat_io
+
+### 15 (2022-10-10 : 2027-11-11)  
+	* large connection count improvements
+	* in-memory/on-disk sorting improvements
+	* logical replication - specify column lists/row filters
+	* WAL compression options
+	* partition table performance fixes
+	* note: Public schema permissions change with this release
+
 ### 14 (2021-09-30 : 2026-11-12)  
 	* large connection count improvements
 	* indexing data structure improvements
@@ -74,3 +89,14 @@ permalink: /versions/
 ### 9.2 (2012-09-10 : 2017-11-09)
 ### 9.1 (2011-09-12 : 2016-10-27)
 ### 9.0 (2010-09-20 : 2015-10-08)
+  
+  
+Links:  
+[Why Upgrade](https://why-upgrade.depesz.com/show?from=12.5&to=16.2&keywords=)  
+[pgtune](https://pgtune.leopard.in.ua/)  
+[pgconfigurator](https://pgconfigurator.cybertec-postgresql.com/)  
+[pg feature matrix](https://www.postgresql.org/about/featurematrix/)  
+
+[pgmustard](https://www.pgmustard.com/)  
+[pganalyze](https://pganalyze.com/)  
+[crunchybridge](https://www.crunchydata.com/products/crunchy-bridge)  
