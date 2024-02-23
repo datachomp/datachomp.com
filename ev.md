@@ -17,6 +17,7 @@ distance being variable up to 35%
 software is so dumb
 	doesn't want to necessarily work with other software
 	Everything is digital/dynamic interface, but personalization is deeply superficial
+	remote software calls are unreliable/unresponsive... and usually unactionable.
 
 touch is so dumb, slow, unecessary 
 
