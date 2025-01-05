@@ -4,6 +4,15 @@ title: PG Versions
 permalink: /versions/
 ---
 
+### 17 (2024-09-26 : 2029-11-08)  
+	* Json_table function
+	* WAL perf enhancements (setting up more IO gains / streaming IO gains)
+	* vacuum improvements - new memory datastructure
+	* logical replication - no longer have to drop slots for upgrades
+	* incremental backups
+	* sslnegotiation=direct = no more roundtrip negotiation
+	* btree's work better with IN clauses
+
 ### 16 (2023-09-11 : 2028-11-09)  
 	* Query planner improvements (aggregates, incremental sorts, etc)
 	* Large performance gains in bulk loading (COPY)
