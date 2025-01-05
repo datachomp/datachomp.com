@@ -19,6 +19,11 @@ gem 'google-protobuf', "~> 3.21.12"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima" #, "~> 2.0"
 
+# language deps
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+
 # gem install eventmachine -- --with-cppflags=-I/usr/local/opt/openssl/include 
 # macos: 
 # gem install eventmachine -- --with-cppflags=-I/opt/homebrew/Cellar/openssl@1.1/1.1.1s/include
