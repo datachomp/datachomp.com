@@ -15,7 +15,7 @@ GEM
     ffi (1.17.1-arm64-darwin)
     ffi (1.17.1-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
-    google-protobuf (3.21.12)
+    google-protobuf (3.25.5)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
@@ -86,7 +86,7 @@ DEPENDENCIES
   base64
   bigdecimal
   csv
-  google-protobuf (~> 3.21.12)
+  google-protobuf (~> 3.25.5)
   jekyll
   jekyll-feed
   minima
