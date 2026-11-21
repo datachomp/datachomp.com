@@ -11,6 +11,7 @@ ruby File.read(File.expand_path('../.ruby-version', __FILE__)).chomp
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll" #, "~> 3.8.0"
+gem "logger"
 gem 'webrick'
 
 # temp fix for ruby 3.3 while waiting for new release (dec '23')
@@ -24,8 +25,8 @@ gem 'csv'
 gem 'base64'
 gem 'bigdecimal'
 
-# gem install eventmachine -- --with-cppflags=-I/usr/local/opt/openssl/include 
-# macos: 
+# gem install eventmachine -- --with-cppflags=-I/usr/local/opt/openssl/include
+# macos:
 # gem install eventmachine -- --with-cppflags=-I/opt/homebrew/Cellar/openssl@1.1/1.1.1s/include
 # gem install eventmachine -- --with-cppflags=-I/opt/homebrew/Cellar/openssl@3/3.0.7/include/
 #gem 'eventmachine'
